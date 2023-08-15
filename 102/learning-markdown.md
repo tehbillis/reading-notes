@@ -6,6 +6,7 @@ rendered, and can be read or made on all major operating systems. Its simplicity
 for some reason, it can easily be moved to anoter and be accessed just the same.
 
 ## Answers
+
 1. **What is Markdown? -** Markdown is an easy to use, lightweight markup language for formating and organizing text.
 2. **Why do we use Markdown? -** We use it for many reasons such as it's platform independent, it's future-proof, it can be opened and rendered by many different applications,
 and it can be used for everything.

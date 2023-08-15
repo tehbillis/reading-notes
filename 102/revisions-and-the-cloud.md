@@ -5,6 +5,7 @@ of a file. It is one of the top version control systems used today. It was creat
 he was using at the time. There was a lot of technical information in this reading that it seems difficult to go into without, well, getting too technical.
 
 ## Answer
+
 1. **What is Version Control? -** A system that allows you to revisit various versions of a file or set of files by recording changes.
 2. **What is `cloning` in Git? -** Copying a project from another location.
 3. **What is the command to track and stage files? -** `git add filename.md`
