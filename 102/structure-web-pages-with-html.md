@@ -17,6 +17,15 @@ Something to know is that the process used to go from wireframe to code can be a
 * Sketch > wireframe > Hi-Def wireframe > visual > code
 * Sketch > wireframe > visual > code
 
+3 key principles of good wireframes.
+
+1. Clarity
+   * Your wireframe is a representation of what your site is trying to accomplish and what your users need. There shouldn't be any clutter or distractions.
+2. Confidence
+   * Navigation and basic elements of your site should be familiar and inspire confidence in the user. Buttons, forms, and navigation should be layed out in a familiar way so people aren't trying to guess how to use your software.
+3. Simplicity is Key
+   * Remove distractions so users can achieve their goals. The wireframe is a visual guide to the framework of your site and that is all. Beautification should come later.
+
 ## Semantic Element in HTML
 
 Semantic html is a way to use your code to represent that data contained within it. It makes it easier to see what the different parts of the web page are. There are many other benefits as well such as influencing search engines, accessibility for the disabled, finding meaningful code instead of searching through endless div tags, suggesting what type of data should be there, and semantic naming mirrors proper sumo element/component naming standards.
