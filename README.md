@@ -16,7 +16,7 @@ Please feel free to follow my progress on github as well as my blog.
 |[Revisions and the Cloud](102/revisions-and-the-cloud.md)|[4]()                       |
 |[Thoughts and Observations](102/thoughts-observations.md)|[5]()                       |
 |[Structure Web Pages With HTML](102/structure-web-pages-with-html.md)       |[6]()    |
-|[7]()    |[7]()    |
+|[Design Web Pages With CSS](102/design-web-pages-with-css.md)               |[7]()    |
 |[8]()    |[8]()    |
 |         |[9]()    |
 |         |[10]()   |
