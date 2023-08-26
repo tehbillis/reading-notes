@@ -15,9 +15,9 @@ Please feel free to follow my progress on github as well as my blog.
 |[The Coders Computer](102/the-coders-computer.md)        |[3]()                       |
 |[Revisions and the Cloud](102/revisions-and-the-cloud.md)|[4]()                       |
 |[Thoughts and Observations](102/thoughts-observations.md)|[5]()                       |
-|[Structure Web Pages With HTML](102/structure-web-pages-with-html.md)       |[6]()    |
-|[Design Web Pages With CSS](102/design-web-pages-with-css.md)               |[7]()    |
-|[8]()    |[8]()    |
+|[Structure Web Pages With HTML](102/structure-web-pages-with-html.md)            |[6]()    |
+|[Design Web Pages With CSS](102/design-web-pages-with-css.md)                    |[7]()    |
+|[Dynamic Web Pages With Javascript](102/dynamic-web-pages-with-javascript.md)    |[8]()    |
 |         |[9]()    |
 |         |[10]()   |
 |         |[11]()   |
