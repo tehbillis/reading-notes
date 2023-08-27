@@ -8,17 +8,17 @@ Please feel free to follow my progress on github as well as my blog.
 
 ## Table of Contents
 
-| **Code 102 Reading Notes**                              | **Code 201 Reading Notes** |
-|:-------:                                                |:-------:                   |
-|[Growth Mindset](102/growth-mindset.md)                  |[1]()                       |
-|[Learning Markdown](102/learning-markdown.md)            |[2]()                       |
-|[The Coders Computer](102/the-coders-computer.md)        |[3]()                       |
-|[Revisions and the Cloud](102/revisions-and-the-cloud.md)|[4]()                       |
-|[Thoughts and Observations](102/thoughts-observations.md)|[5]()                       |
+| **Code 102 Reading Notes**                                                      | **Code 201 Reading Notes** |
+|:-------:                                                                        |:-------:|
+|[Growth Mindset](102/growth-mindset.md)                                          |[1]()    |
+|[Learning Markdown](102/learning-markdown.md)                                    |[2]()    |
+|[The Coders Computer](102/the-coders-computer.md)                                |[3]()    |
+|[Revisions and the Cloud](102/revisions-and-the-cloud.md)                        |[4]()    |
+|[Thoughts and Observations](102/thoughts-observations.md)                        |[5]()    |
 |[Structure Web Pages With HTML](102/structure-web-pages-with-html.md)            |[6]()    |
 |[Design Web Pages With CSS](102/design-web-pages-with-css.md)                    |[7]()    |
 |[Dynamic Web Pages With Javascript](102/dynamic-web-pages-with-javascript.md)    |[8]()    |
-|         |[9]()    |
+|[Programming With Javascript](102/programming-with-javascript.md)                |[9]()    |
 |         |[10]()   |
 |         |[11]()   |
 |         |[12]()   |
