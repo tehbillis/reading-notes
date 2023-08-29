@@ -19,7 +19,7 @@ Please feel free to follow my progress on github as well as my blog.
 |[Design Web Pages With CSS](102/design-web-pages-with-css.md)                    |[7]()    |
 |[Dynamic Web Pages With Javascript](102/dynamic-web-pages-with-javascript.md)    |[8]()    |
 |[Programming With Javascript](102/programming-with-javascript.md)                |[9]()    |
-|         |[10]()   |
+|[Operators and Loops](102/operators-and-loops.md)                                |[10]()   |
 |         |[11]()   |
 |         |[12]()   |
 |         |[13]()   |
