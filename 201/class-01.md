@@ -242,3 +242,7 @@ JavaScript is a scripting or programming language that allows you to implement c
 
 1. **Describe 2 things that *require* Javascript in the browser? -** Dynamic content, such as changing information on the page. And asynchronous content, such as retrieving or updating information in a database without reloading the web page.
 2. **How can you add Javascript to an HTML document? -** Either internally or externally with the `<script>` tag.
+
+## Things I Want To Know More About
+
+I want to learn more about API's.
