@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1 {
+                background-color: silver;
+                color: greenyellow;
+            }
+
+            #q1 {
+                background-color: blue;
+                color: white;
+            }
+
+            #q2 {
+                background-color: lightblue;
+                color: red;
+            }
+
+            #q3 {
+                background-color: darkorchid;
+                color: silver;
+            }
+
+            #q4 {
+                background-color: greenyellow;
+                color: purple;
+            }
+        </style>
+
+        <script>
+            window.onload = function() {
+                let question1 = prompt("What is your name?");
+                alert("Hi " + question1 + ". Hope you're having a great day! Let's build a pizza together.");
+                console.log("Persons name: " + question1);
+                
+                let question2 = prompt("What is your favorite pizza topping?");
+                alert("Wow, are you reading my mind " + question1 + "? Because " + question2 + " is my favorite topping as well!");
+                console.log("Their favorite topping: " + question2);
+                
+                let question3 = prompt("Do you like thin crust?");
+                alert("Ok " + question1 + ", this is getting crazy. Not only do we both like " + question2 + ", but we both answered " + question3 + " to that question! OK, i think i'll get you with this next question.");
+                console.log("Do they like thin crust? " + question3);
+                
+                let question4 = prompt("Do you fold your pizza?");
+                alert(question1 + " it's like we are almost the same person cause we both like " + question2 + ", we both answered " + question3 + ", and when it comes to folding our pizza, we both said " + question4 + ". Thanks for playing along " + question1 + ". Have a great day!");
+                console.log("Do they fold their pizza? " + question4);
+
+                for (let i = 1; i <=4; i++) {
+                    let currentQ = "q" + i;
+                    let innerQText = document.getElementById(currentQ);
+                    if(i == 1) {
+                        innerQText.innerText += " - " + question1;
+                    } else if (i == 2) {
+                        innerQText.innerText += " - " + question2;
+                    } else if (i == 3) {
+                        innerQText.innerText += " - " + question3;
+                    } else {
+                        innerQText.innerText += " - " + question4;
+                    }
+                }
+                }
+        </script>
+    </head>
+    <body>
+        <header>
+
+        </header>
+
+        <main>
+            <h1>Class 1 Lab</h1>
+            <p id="q1">What is your name?</p>
+            <p id="q2">What is your favorite pizza topping?</p>
+            <p id="q3">Do you like thin crust?</p>
+            <p id="q4">Do you fold your pizza?</p>
+        </main>
+
+        <footer>
+
+        </footer>
+    </body>
+</html>
