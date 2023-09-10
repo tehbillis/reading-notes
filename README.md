@@ -28,7 +28,7 @@ Please feel free to follow my progress on github as well as my blog.
 | Topics |
 |-------|
 | [Setting Up The Developer Toolbelt](201/class-01.md) |
-| [2]() |
+| [Basics of HTML, CSS & JS](201/class-02.md) |
 | [3]() |
 | [4]() |
 | [5]() |
