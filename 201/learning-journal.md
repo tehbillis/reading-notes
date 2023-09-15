@@ -26,3 +26,11 @@ Now let's take a look at what I can do to evaluate my learning:
 5. **Celebrate:** I will make sure to do something I rarely do, but I will celebrate and acknowledge my achievements and milestones along the way as a way to keep myself motivated.
 
 It's important for me to remember that learning is a journey, it is a continuous activity that I will be doing for the rest of my life. Looking for ways to improve, and taking joy in the process of learning will be very beneficial to me.
+
+## Day 02
+
+Today I will go ahead a write a breif reflection on what I learned this day. Overall the content was really good. I can't say that any of the information was really new, but I took the opportunity to solidify most of the knowledge that I already knew. Specifically the JS learnings. The logic is something I feel like I have a solid understanding of, and it was nice to knock the cobwebs out of my mind and see just how much I remember and understand.
+
+When it came to the CSS though, I have certainly worked with the box model before and have struggled with it over the years. In fact, I would describe the way I initially learned it was by struggling with it. But it was very nice to get a more in depth understanding of just what is going on here and the ways that it can be used and manipulated.
+
+Lists are somethings I'm familiar with, though I have never once changed the attributes on a list to have it display different symbols and numbers or reverse the list. That was really cool to learn!
