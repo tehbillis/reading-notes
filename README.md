@@ -29,7 +29,7 @@ Please feel free to follow my progress on github as well as my blog.
 |-------|
 | [Setting Up The Developer Toolbelt](201/class-01.md) |
 | [Basics of HTML, CSS & JS](201/class-02.md) |
-| [3]() |
+| [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md) |
 | [4]() |
 | [5]() |
 | [6]() |
