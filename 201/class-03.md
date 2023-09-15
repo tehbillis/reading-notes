@@ -196,3 +196,7 @@ let c = false;
 5. **Describe a real world example of when a conditional statement should be used in a JavaScript program. -** When you have a multiple choice question and need to display or record if the answer is correct or not, you can use a conditional statement to see if the answer is correct, then log it accordingly.
 
 6. **Give an example of when a Loop is useful in JavaScript. -** A loop is useful when you need to do a specific set of actions multiple times, like looping through an array and displaying the items in a list.
+
+## Things I want to know more about
+
+CSS Flex.
