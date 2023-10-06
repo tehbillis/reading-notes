@@ -31,7 +31,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [Basics of HTML, CSS & JS](201/class-02.md) |
 | [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md) |
 | [Links, Layouts, and Functions](201/class-04.md) |
-| [5]() |
+| [Images, Color, Text](201/class-05.md) |
 | [6]() |
 | [7]() |
 | [8]() |
