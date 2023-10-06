@@ -80,3 +80,8 @@ p {
 3. **What should you consider when choosing fonts for an HTML document? -**
 4. **What do `font-size`, `font-weight`, and `font-style` do to HTML text elements? -** they each respectively deal with the size of the text, whether it's bold or not, and wheter it's italic or not.
 5. **Describe two ways you could add spacing around the characters displayed in an `h1` element. -** `line-height` to add space above and below and `letter-spacing` to add space to the sides of each character.
+
+## Things I Want To Know More About
+
+- Custom fonts.
+- Color Design.
