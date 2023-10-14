@@ -32,7 +32,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md) |
 | [Links, Layouts, and Functions](201/class-04.md) |
 | [Images, Color, Text](201/class-05.md) |
-| [6]() |
+| [Problem Domain, Objects, And the DOM](201/class-06.md) |
 | [7]() |
 | [8]() |
 | [9]() |
