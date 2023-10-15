@@ -103,7 +103,7 @@ const will = new Person("Will");
 2. **What are some advantages to creating object literals? -** It's a nice way to pass all related data to the server in one simple to use item, rather than a bunch of items on their own.
 3. **How do objects differ from arrays? -** Objects map strings to values where arrays map numbers to values.
 4. **Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation. -** When creating custom object members and their values.
-5. **Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`? -** It refers to the current object that the code is in. It makes it so you can reuse code among objects without tailoring that code to each individual object.
+5. **Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`? -** It refers to the current object that the code is in, which would be the `dog` object. It makes it so you can reuse code among objects without tailoring that code to each individual object.
 
 ```javascript
 const dog = {
@@ -118,11 +118,16 @@ const dog = {
 
 ### Introduction to the DOM
 
+The Document Object Model (DOM) is a programming interface for web documents. It allows changes to the document structure, style, and content. It represents the document as nodes and objects.
+
+The DOM is an API indedependant of programming languages. That means any language can be made to interact with the DOM, but JavaScript is by far the most used language to do so.
+
 ### DOM Questions
 
-1. **What is the DOM? -**
-2. **Briefly describe the relationship between the DOM and JavaScript. -**
+1. **What is the DOM? -** It's a programming interface for web documents. It allows changes to the document structure, style, and content.
+2. **Briefly describe the relationship between the DOM and JavaScript. -** The DOM is an API that is independant of programming languages, any language can be made to interact with it. But JS is the most used language to do so.
 
 ## Things I Want To Know More About
 
 * Creating custom object members programatically.
+* The different DOM objects.
