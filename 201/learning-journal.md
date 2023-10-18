@@ -49,3 +49,8 @@ Fonts and colors were the topics that my brain kind of lost focus on. These are 
 
 Working more with git branching was so great. Branching finally makes sense to me, and I'm confident enough to work with it no questions asked now.
 
+## Class 06
+
+Today was all about objects and interacting with the DOM. Going over objects was really great because it was such a big part of what i learned in high school and used in my early career. They are a great way to work with data. Most of what i learned about JS objects is small sematics, like every property or method is followed by a comma. Or how to properly use the `this` keyword in an object.
+
+Working with the DOM has always been scary for me. It has always seemed like this big unknowable box of magic, but after working with it today it actually is starting to make sense. My typical way of interacting with the DOM is to build up a string of custom HTML and injecting that into different elements that already exist in the page. but today i did a hybrid of that and creating the elements on the fly. I really liked creating them programatically and i think i will try to find a way to do that with not just the generated `<ul>` list but with its corresponding header as well.
