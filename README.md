@@ -34,7 +34,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [Images, Color, Text](201/class-05.md) |
 | [Problem Domain, Objects, And the DOM](201/class-06.md) |
 | [Object-Oriented Programming, HTML Tables](201/class-07.md) |
-| [8]() |
+| [CSS Layout](201/class-08.md) |
 | [9]() |
 | [10]() |
 | [11]() |

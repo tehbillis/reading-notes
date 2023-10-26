@@ -40,7 +40,7 @@ To align items on the cross axis use `align-items` and `align-self`.
 
 ## Flexbox Layout Questions
 
-1. **What are some advantages to using flexbox over float? -**
-2. **How does this topic connect with your long term goals? -**
+1. **What are some advantages to using flexbox over float? -** You can vertically center a block of content in its parent, Make all columns in a multi columnlayout all the same height, and make all items take up the same space no matter how much is available.
+2. **How does this topic connect with your long term goals? -** This will help me be able to create clean good looking websites that are layed out properly and easily.
 
 ## Things I Want To Know More About
