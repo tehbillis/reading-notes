@@ -20,11 +20,25 @@ When submiting a form, it's important to define the `name` attribute on all the 
 
 ### How to structure a web form
 
+`<form> ` is the top most element of a form and contains, usually, all other form elements.
+
+`<fieldset>` groups widgets and `<legend>` is the label for it. Try building a fieldset so that when it is read by a screenreader, it flows and makes sense as naturally as possible.
+
+`<label>` is the formal way to define a label for a widget and is used by accessibility software. You can nest a widget within the lael to associate them, but it's still best practice to set the `for` attribute.
+
+Since forms are just HTML, you can use other HTML structures to help structure them, Like lists or divs ot sections.
+
 ## HTML Forms Questions
 
-1. **Why are forms so important in web development? -**
-2. **When designing a form, what are some key things to keep in mind when it comes to user experience? -**
+1. **Why are forms so important in web development? -** It's how we get data from the user to our application.
+2. **When designing a form, what are some key things to keep in mind when it comes to user experience? -** It's important to make sure your widgets are labeled, and in such a way that it makes sense when reading them because if you don't, people who use screen readers and other accessibility software will have a hard time understanding your form.
 3. **List 5 form elements and explain their importance. -**
+
+1. `<form>` defines and usually contains the form itself.
+2. `<input>` Allows users to input text.
+3. `<fieldset>` Allows you to group widgets together, like radio buttons or checkbox's.
+4. `<button>` Allows you to submit the form. Or not.
+5. `<label>` Allows you to associate a variable being sent to the backend with a variable name, as well as allow the users to know what the particular input is for.
 
 ## JS Events
 
