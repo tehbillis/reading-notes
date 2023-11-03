@@ -44,9 +44,9 @@ Since forms are just HTML, you can use other HTML structures to help structure t
 
 ## JS Events Questions
 
-1. **How would you describe events to a non-technical friend? -**
-2. **When using the `addEventListener()` method, what 2 arguments will you need to provide? -**
-3. **Describe the event object. Why is the target within the event object useful? -**
+1. **How would you describe events to a non-technical friend? -** An event is something that you are alerted of so that you can take the appropriate action that you want to do. Like when the low air pressure light comes on in your car, You are alerted that the tires are low on air and now you can take action to adjust their pressure to the proper levels.
+2. **When using the `addEventListener()` method, what 2 arguments will you need to provide? -** You provide the event you're listening for, and the function you want to run.
+3. **Describe the event object. Why is the target within the event object useful? -** The event object is special object that contains data about the event that just occured. The target is a reference to the object that called that particular event. So if a button was clicked, the target would be the button. So it's useful because you can make changes to the element that caused the event.
 4. **What is the difference between event bubbling and event capturing? -**
 
 ## Things I Want To Know More About
