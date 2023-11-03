@@ -50,3 +50,6 @@ Since forms are just HTML, you can use other HTML structures to help structure t
 4. **What is the difference between event bubbling and event capturing? -**
 
 ## Things I Want To Know More About
+
+* The event object.
+
