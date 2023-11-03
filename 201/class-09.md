@@ -42,12 +42,48 @@ Since forms are just HTML, you can use other HTML structures to help structure t
 
 ## JS Events
 
+Events are things that happen in the system you are programming in, that the system notifies you about, so you can act accordingly. Like the check engine light coming on in your car.
+
+To reacto to an even, you attach an event handler to it. `addEventListener()` is the recomended way to do this.
+
+```javascript
+element.addEventListener("event", function);
+
+btn.addEventListener("click", handleClick);
+```
+
+Use the same format to remove the listener, but use `removeEventListener()`.
+
+You can add more than one function to an element when an event happens. Just add another event listener with the other function you wish to execute.
+
+Objects, such as buttons, have event handler properties whos name is `on` followed by the event. you can't add more than one event handler when using this method because the property is just overwritten instead of added onto.
+
+```javascript
+btn.onclick = handleClick;
+```
+
+Do Not Use inline event handlers. They are available but they are a holdover from the old days of the internet. They are complicated, confusing and hard to understand. It's also possible that they will be denied by server security configurations.
+
+If you need to prevent default behaviour of an event you can use the `preventDefault()` function.
+
+Event Bubbling describes how the browser handles events targeted at nested elements. Events are triggered on the element that was selected, then they bubble their way up that elements chain of parents.
+
+If you need to prevent the event from bubbling up, you would use the `stopPropagation()` function.
+
+Event capture is similar to event bubbling, but it happens in reverse. Capture is disabled by default, to enable it you need to tell the event listener.
+
+```javascript
+document.body.addEventListener("click", handleClick, { capture: true });
+```
+
+This order of events can be very useful like in a situation where you add the event to a container to handle actions that are triggered by its children instead of adding that event handler to each child of that container.
+
 ## JS Events Questions
 
 1. **How would you describe events to a non-technical friend? -** An event is something that you are alerted of so that you can take the appropriate action that you want to do. Like when the low air pressure light comes on in your car, You are alerted that the tires are low on air and now you can take action to adjust their pressure to the proper levels.
 2. **When using the `addEventListener()` method, what 2 arguments will you need to provide? -** You provide the event you're listening for, and the function you want to run.
 3. **Describe the event object. Why is the target within the event object useful? -** The event object is special object that contains data about the event that just occured. The target is a reference to the object that called that particular event. So if a button was clicked, the target would be the button. So it's useful because you can make changes to the element that caused the event.
-4. **What is the difference between event bubbling and event capturing? -**
+4. **What is the difference between event bubbling and event capturing? -** Bubbling starts with the target of the event and works its way up the chain of parents. Capture starts with the outermost parent and works its way down to the child that is the target of the event.
 
 ## Things I Want To Know More About
 
