@@ -69,4 +69,8 @@ After using the flexbox to actually lay out a couple of websites I can say with 
 
 ## Class 09
 
-Today we went over HTML forms and javascript events. These are some of the most important tools to learn as so much of the modern web relies on them.
+Today we went over HTML forms and javascript events. These are some of the most important tools to learn as so much of the modern web relies on them. We learned about how forms are layed out and the children elements contained within them. We learned how to send data to a server or to a javascript function. We learned that it's important to define the name attributes on the inputs as well, your code won't work unless you do. We learned how to group elements together with a fieldset element. And we went over how important labels are not just to regular users, but also to users who use accessibility tools.
+
+We dove into javascript events as well. we covered what they are, how to create them, the different ways they can be used and some of their peculiar functionality. We learned not only how to add them to elements, but also how to remove them. You can also add more than one if done a certain way! We learned that it's not good practice anymore to use inline event handlers in the HTML anymore. We went over how to prevent the default behaviour of events. Bubbling and capturing was also discussed, we went over what to be wary of as well as how they can be useful.
+
+Overall a great section, the events portion of the class did not feel like a review for me. I felt like i learned so much! And it's always so fun to get your code working and doing cool things!
