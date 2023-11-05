@@ -25,8 +25,16 @@ Some common mistakes to watch out for:
 
 ## The Javascript Debugger
 
+The debugger is a tool that allows you to watch the values of your variables as well as pause your code and step through it to see what it's doing. Pausing your code is called setting a breakpoint, a place for your code to stop so you can watch it step by step.
+
+The browser also offers you a developer console that lets you see output of your code that is logged to the console and execute code within the console.
+
+The call stack is a place where you can see all the code that was executed to get to the line of code you are on. It's helpful so you can trace the patch of your logic.
+
+And scopes shows you the values of variables available to you in the code.
+
 ## JS Debugger Questions
 
-1. **How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development? -**
-2. **Define what a breakpoint is. -**
-3. **What is the call stack? -**
+1. **How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development? -** The debugger is a tool that lets you watch the values of your variables as well as pause your code so you can see what it's doing. This all helps to see where your code is having problems.
+2. **Define what a breakpoint is. -** It's a place where you can pause your code and then walk through it step by step to see what's going on.
+3. **What is the call stack? -** A section that shows you all the code that was executed up to the line of code you are on now.
