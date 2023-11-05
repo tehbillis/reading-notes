@@ -38,3 +38,5 @@ And scopes shows you the values of variables available to you in the code.
 1. **How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development? -** The debugger is a tool that lets you watch the values of your variables as well as pause your code so you can see what it's doing. This all helps to see where your code is having problems.
 2. **Define what a breakpoint is. -** It's a place where you can pause your code and then walk through it step by step to see what's going on.
 3. **What is the call stack? -** A section that shows you all the code that was executed up to the line of code you are on now.
+
+## Things I Want To Know More About
