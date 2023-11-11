@@ -74,3 +74,11 @@ Today we went over HTML forms and javascript events. These are some of the most 
 We dove into javascript events as well. we covered what they are, how to create them, the different ways they can be used and some of their peculiar functionality. We learned not only how to add them to elements, but also how to remove them. You can also add more than one if done a certain way! We learned that it's not good practice anymore to use inline event handlers in the HTML anymore. We went over how to prevent the default behaviour of events. Bubbling and capturing was also discussed, we went over what to be wary of as well as how they can be useful.
 
 Overall a great section, the events portion of the class did not feel like a review for me. I felt like i learned so much! And it's always so fun to get your code working and doing cool things!
+
+## Class 10
+
+Today we read over javascript debugging and the tools used to do that. There was some good information about the supplied tools that are built into browsers and all the features that they offer. It's nice to know that there are more formal ways of huhting down issues that aren't just using `console.log();`. Don't get me wrong though, that console log can save your butt and be extremely usefull in some cases. Learning how to read the errors that the browser gave you was really nice, it helps narrow down where to look for the issue.
+
+Our labs focused around styling. Oh man, i was able to get lab-b done fairly quickly and easily once I got clarification on the requirements. After that I moved on to lab-a. I thought i was going to rock it and get it done in no more than 3 hours. Wow was i wrong. It took me closer to 6 hours to complete. Lots of time was spent trying to figure out why things weren't doing what i expected them to do, I was missing the css reset so i was getting shafted with some of the defaults. I also spent a lot of time searching for the correct fonts. i didn't see anywhere that they were supplied. And I fell into my old ways of measuring the example picture for exact spacing. I think i got really close to the original, but there may be some small differences here and there.
+
+Overall, a great learning experience! I'm going to have to do this again, many times, to sharpen up those skills!
