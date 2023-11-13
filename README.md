@@ -37,7 +37,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [CSS Layout](201/class-08.md) |
 | [Forms and Events](201/class-09.md) |
 | [Debugging & Error Handling](201/class-10.md) |
-| [11]() |
+| [Audio, Video, Images](201/class-11.md) |
 | [12]() |
 | [13]() |
 | [14]() |
