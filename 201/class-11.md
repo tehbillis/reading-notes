@@ -47,10 +47,21 @@ WebvTT is a format used to provide text taht accompanies a video. It is made up 
 
 ## A Complete Guide To Grid
 
+Grid is a page layout tool amde to solve the issues that came with laying pages out with tables or floats or inline block. It also works well when paired with flexbox.
+
+Grid Terminology:
+
+* Grid Container - Direct parent of all grid items.
+* Grid Item - The children of grid container. The children of these elements are not themselves grid items.
+* Grid Line - Lines that make up the structure of the grid.
+* Grid Cell - Space between 2 adjeacent row and column lines.
+* Grid Track - Space between 2 adjacent grid lines. AKA columns or rows.
+* Grid Area - Total space surrounded by 4 grid lines.
+
 ## Grid Questions
 
-1. **How does Grid layout differ from Flex? -**
-2. **Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences. -**
+1. **How does Grid layout differ from Flex? -** Grid layout is two dimension, you can lay out items up or down, as well as left or right at the same time. Flex only lays items out in a single direction. You can explicitly place items on a grid in a specific location where as you aren't able to do that with flex.
+2. **Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences. -** The grid container is the direct parent of all the grid items, and those grid items live inside of that grid container. the grid lines are what seperates the content and makes up the structure of the grid.
 
 ## Responsive Images
 
