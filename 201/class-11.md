@@ -69,6 +69,10 @@ Grid Terminology:
 
 `sizes` are the conditions that browser uses to choose what image to use.
 
+**Art Direction** is when you want to serve cropped images for different layouts.
+
+**Resolution Switching** is where you want to serve smaller images to narrower screens & different resolution pictures to high/low density screens.
+
 ## Responsive Images Questions
 
 1. **Besides making a site visually appealing across different screen sizes, why should developers make images responsive? -** It can actually cut back on bandwidth because you're sending less data to the user overall.
