@@ -65,10 +65,14 @@ Grid Terminology:
 
 ## Responsive Images
 
+`srcset` defines the set of image the browser can choose from.
+
+`sizes` are the conditions that browser uses to choose what image to use.
+
 ## Responsive Images Questions
 
-1. **Besides making a site visually appealing across different screen sizes, why should developers make images responsive? -**
-2. **Define the following `<img>` attributes `srcset` and `sizes`. Write an example of how they are used. -**
-3. **How is `srcset` more helpful for responsive images than CSS or JavaScript? -**
+1. **Besides making a site visually appealing across different screen sizes, why should developers make images responsive? -** It can actually cut back on bandwidth because you're sending less data to the user overall.
+2. **Define the following `<img>` attributes `srcset` and `sizes`. Write an example of how they are used. -** `srcset` defines the set of images the browser can use, `sizes` are the conditions that the browsers uses to choose an image from that set. For example you can have an image for desktop users and different sized image for mobile users, In the `sizes` you would specify how big the viewport should be for each image to be displayed. that way the browser knows which image to serve to the user.
+3. **How is `srcset` more helpful for responsive images than CSS or JavaScript? -** since the `<img>` part of the HTML it's processed before the CSS or Javascript, so the browser knows exactly which image to use and loads it in before it even starts to pull the CSS and JS files in.
 
 ## Things I Want To Know More About
