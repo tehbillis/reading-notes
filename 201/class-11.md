@@ -2,12 +2,48 @@
 
 ## Video and Audio Content
 
+The `<video>` element lets you embed a video on your page. `src` points to the bideo, like the `src` you find in the img element. The controls attribute displays the default browser controls. You don't have to use them and can use custom controls but you need to have play/pause and volume controls at the minimum. The content within the `<video>` tags is called fallback content and is used or displayed if the browser doesn't support the initial source.
+
+Formats like mp3, mp4, and WebM are called container formats. They hold more information that just audio and video. Since support for these formats can't be garunteed, it's good to try and have a few options available for total support.
+
+and example of using fallback content:
+
+```html
+<video controls>
+  <source src="source1.mp4" type="video/mp4" />
+  <source src="source2.webm" type="video/webm" />
+  <p>
+    Your browswer doesn't support this video.
+  </p>
+</video>
+```
+
+Other video features include:
+
+* `width/height`
+* `autoplay`
+* `loop`
+* `muted`
+* `poster`
+* `preload`
+
+The `<audio>` element works just liek the `<video>` element with jsut a few small differences.
+
+* Doesn't support width/height.
+* Doesn't support poster.
+
+WebvTT is a format used to provide text taht accompanies a video. It is made up of cues. The most common ones are:
+
+* subtitles
+* captions
+* timed descriptions
+
 ## Video and Audio Questions
 
-1. **Explain how the ability to use video and audio on the web has evolved since the early 2000s. -**
-2. **Describe the use of the `src` and `controls` attributes in the `<video>` element. -**
-3. **Why is it important to have *fallback content* inside the `<video>` element? -**
-4. **Write a very short story where `<audio>` and `<video>` are characters. -**
+1. **Explain how the ability to use video and audio on the web has evolved since the early 2000s. -** You once needed specialized software like flash or silverlite to embed media on your site. But now you can achieve this much more easily and securely with native HTML elements while interacting with them in javascript.
+2. **Describe the use of the `src` and `controls` attributes in the `<video>` element. -** `src` will point to where your video resides and `controls` tells the browser whether or not to display the play/pause/skip/volume controls or not.
+3. **Why is it important to have *fallback content* inside the `<video>` element? -** Media formats are not garunteed to be covered by each individual browser. So it's important to have other options just in case your initial format isn't supported.
+4. **Write a very short story where `<audio>` and `<video>` are characters. -** There once were two twin brothers, one named audio and one named video. They were not identical twins but were fraternal twins. They looked very much alike, and could do almost all of the same things. But video was a little bit taller, maybe a little bit wider, and was a little bit of a showoff. Audio didn't mind, he knew they were their own people, just doing what they did best. Besides, Audio didn't like being noticed too much, he very much prefered to be heard than seen.
 
 ## A Complete Guide To Grid
 
