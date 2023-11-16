@@ -38,7 +38,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [Forms and Events](201/class-09.md) |
 | [Debugging & Error Handling](201/class-10.md) |
 | [Audio, Video, Images](201/class-11.md) |
-| [12]() |
+| [Chart.js, Canvas](201/class-12.md) |
 | [13]() |
 | [14]() |
 | [15]() |
