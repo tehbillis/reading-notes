@@ -39,9 +39,30 @@ Chart Types:
 
 ## Animated Charts
 
+This article went over how to setup various chart types with chart.js. It's important to understand how to create a chart and pass data into them. each one follows a similar structure,
+
+```javascript
+var buyerData = {
+	labels : ["January","February","March","April","May","June"],
+	datasets : [
+		{
+			fillColor : "rgba(172,194,132,0.4)",
+			strokeColor : "#ACC26D",
+			pointColor : "#fff",
+			pointStrokeColor : "#9DB86D",
+			data : [203,156,99,251,305,247]
+		}
+	]
+}
+```
+
+but each one also had it's own unique setup.
+
 ## Animated Charts Questions
 
-1. **What are some advantages to displaying data via a chart over a table? -**
+1. **What are some advantages to displaying data via a chart over a table? -** They're better at displaying data and they're easier to read.
 2. **How could Chart.js aid your previously created applications visually? -**
+   * For salmon cookies you could better represent cookie sales with a line chart.
+   * For Odd Duck, you can display the product statistics in an easy to digest chart that shows both how many times it was shown and how many times it was selected.
 
 ## Things I want to know more about
