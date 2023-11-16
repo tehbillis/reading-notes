@@ -16,10 +16,26 @@ The closing tag is required and all content between the tags are used as fallbac
 
 ## Chart.js
 
+Chart.js is a javascript charting library that uses the `<canvas>` element to create animated and performant charts. It can be installed with npm, included through a CDN, or built from the github repo. You can include the .js file or integrate it with different module loaders.
+
+Chart Types:
+
+* Area Chart
+* Bubble Chart
+* Doughnut & Pie Charts
+* Line Chart
+* Mixed Chart Types
+* Polar Area Chart
+* Radar Chart
+* Scatter Chart
+
 ## Chart.js Questions
 
-1. **What is Chart.js and how it can be brought into your project? -**
+1. **What is Chart.js and how it can be brought into your project? -** A javascript charting library that uses the `<canvas>` element to create animated and performant charts. You can include the .js file, or integrate it with various module loaders.
 2. **List 3 different Chart types you can create using Chart.js. -**
+   * Area Chart
+   * Radar Chart
+   * Line Chart
 
 ## Animated Charts
 
