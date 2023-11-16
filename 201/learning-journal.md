@@ -82,3 +82,11 @@ Today we read over javascript debugging and the tools used to do that. There was
 Our labs focused around styling. Oh man, i was able to get lab-b done fairly quickly and easily once I got clarification on the requirements. After that I moved on to lab-a. I thought i was going to rock it and get it done in no more than 3 hours. Wow was i wrong. It took me closer to 6 hours to complete. Lots of time was spent trying to figure out why things weren't doing what i expected them to do, I was missing the css reset so i was getting shafted with some of the defaults. I also spent a lot of time searching for the correct fonts. i didn't see anywhere that they were supplied. And I fell into my old ways of measuring the example picture for exact spacing. I think i got really close to the original, but there may be some small differences here and there.
 
 Overall, a great learning experience! I'm going to have to do this again, many times, to sharpen up those skills!
+
+## Class 11
+
+Today was all about Audio, video, and the grid! we started off going over the various ways you can use video on your site. Then we moved on to how to embed audio on your site. apparently it's almost the same, just without a couple features. 
+
+The grid was a fairly complicated topic to go over though. There is just sooo much to it. I think a single day is not enough time to go over and retain all of that information. but we went over how to create a grid, how to layout items within it, special sizing units, and how to position the items in the grid.
+
+I attempted to bring what i learned about the grid with me into my lab. Oh man that lab looked scary when i first read through it. I thought for sure it was going to take me all week to complete what it was asking for. I guess having each individual talk laid out like that made it seem like there was much much more than it really was. I worked with a classmate at the begining and helped him get going on his project while i worked on mine. I'm not sure if he completed his today, I hope he did. If not i'll help him tomorrow.
