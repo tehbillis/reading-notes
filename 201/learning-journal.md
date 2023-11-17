@@ -90,3 +90,11 @@ Today was all about Audio, video, and the grid! we started off going over the va
 The grid was a fairly complicated topic to go over though. There is just sooo much to it. I think a single day is not enough time to go over and retain all of that information. but we went over how to create a grid, how to layout items within it, special sizing units, and how to position the items in the grid.
 
 I attempted to bring what i learned about the grid with me into my lab. Oh man that lab looked scary when i first read through it. I thought for sure it was going to take me all week to complete what it was asking for. I guess having each individual talk laid out like that made it seem like there was much much more than it really was. I worked with a classmate at the begining and helped him get going on his project while i worked on mine. I'm not sure if he completed his today, I hope he did. If not i'll help him tomorrow.
+
+## Class 12
+
+This class was about drawing objects to the screen. Building the foundation of the course on the `<canvas>` element, we learned the basic properties of it and how it works. we went over how this element is meant to be manipulated with javascript to display shapes and objects. and finally we went over how to manipulate the canvas with javascript.
+
+We spent a lot of time going over chart.js starting from how to add it to your project, then how to create a new chart and connect it to your canvas, how to pick the style of chart you want and how to style it. We also went over how to add your data to it, it's very simple to do in javascript. 
+
+The lab was mostly easy for me, I made a few logic mistakes here and there that were not noticed until i added the new functionality from this labs user stories. issues like referencing a method instead of calling it causing issues with my data, and then assigning an array to another then immediately clearing the referenced array. thus clearing my new array that was supposed to act as a sort of backup of the original. That issue was solved by slicing the original array to the new one. Adding the chart wasn't much of a hassle, it took some time but it was the first time i have ever used it so that was to be expected. Styling it and having it placed where i wanted on the page took more time than i had wanted. but i guess i'm still learning how to do that as well.
