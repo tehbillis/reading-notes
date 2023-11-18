@@ -39,7 +39,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [Debugging & Error Handling](201/class-10.md) |
 | [Audio, Video, Images](201/class-11.md) |
 | [Chart.js, Canvas](201/class-12.md) |
-| [13]() |
+| [Local Storage](201/class-13.md) |
 | [14]() |
 | [15]() |
 
