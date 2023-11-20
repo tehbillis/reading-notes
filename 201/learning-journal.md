@@ -106,3 +106,7 @@ Today we went over how to store data locally in the users browser. We went over 
 The lab went well, i actually completed it much faster than i thought i would and with much less code than i expected. I ran into some issues when trying to save the code during the beforeunload event. turns out you are very limited in what you can do in there. I got around this issue by calling another function that saved my objects list in localstorage. What I have now works, but i would like to refactor the code so that when i pull the data from localstorage it will be run through a function that will run that data through my class constructur again so they are proper objects with access to methods. I had to remove my object methods because the loaded objects were not being initialized in the class again.
 
 Overall a great lab. I have wanted to learn how to do this for a long time now! and now i know how!
+
+## Class 14
+
+Today was all about adding movement to the web page using CSS techniques such as transform, transition, and animate. 
