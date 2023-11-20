@@ -90,10 +90,19 @@ animation: name duration timingFunction delay iterationCount direction fillMode 
 
 ## 3 Simple CSS3 Transitions
 
+1. Fade in - opacity from 0.5 to 1
+2. Change color
+3. Grow and Shrink - use transform: scale
+4. Rotate - transform: rotate
+5. square to circle - border radius
+6. 3D shadow - give box shadow then transform: translate X&Y
+7. Swing - animate using transform: translate
+8. inset border - create a ghost button by setting the border
+
 ## CSS3 Transition Questions
 
-1. **What are some benefits to using CSS transitions on websites? -**
-2. **How this topic fit in with your long-term goals? -**
+1. **What are some benefits to using CSS transitions on websites? -** They can excite your users, increase engagement, and increase conversation
+2. **How this topic fit in with your long-term goals? -** Using some of these animations will ultimately help me create cleaner and more interactive websites!
 
 ## Things I Want To Know More About
 
