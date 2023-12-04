@@ -109,4 +109,10 @@ Overall a great lab. I have wanted to learn how to do this for a long time now! 
 
 ## Class 14
 
-Today was all about adding movement to the web page using CSS techniques such as transform, transition, and animate. 
+Today was all about adding movement to the web page using CSS techniques such as transform, transition, and animate. We also learned about Google's journey to create the perfect team.
+
+the transitions and animations all seem like great ways to create a clean and slick interface for your web apps. I'll be testing out different ways to add them to my current projects and try to find out when the best times to use them will be.
+
+I've already found a great use for the transforms. I found it helpful to properly position an element in one of my projects that i was having a hard time getting to be just where i wanted it to be. Now i was able to do this using pixels, but I would like to look into how this would work with relative values such as vw, vh, ect.
+
+I found the article about teams to be very interesting and i'm excited to see how true it is. I know that moving forward I will try to be more open and supportive of my team members so that we can feel like we don't need to watch ourselves around one another. This is something that will take some work on my end because I have a hard time opening up to others, So i'll be working to impliment some of the suggestions in the article so that i can better communicate and be a better team member. I'll make sure that I keep an open mind and adjust my efforts appropriately.
