@@ -116,3 +116,11 @@ the transitions and animations all seem like great ways to create a clean and sl
 I've already found a great use for the transforms. I found it helpful to properly position an element in one of my projects that i was having a hard time getting to be just where i wanted it to be. Now i was able to do this using pixels, but I would like to look into how this would work with relative values such as vw, vh, ect.
 
 I found the article about teams to be very interesting and i'm excited to see how true it is. I know that moving forward I will try to be more open and supportive of my team members so that we can feel like we don't need to watch ourselves around one another. This is something that will take some work on my end because I have a hard time opening up to others, So i'll be working to impliment some of the suggestions in the article so that i can better communicate and be a better team member. I'll make sure that I keep an open mind and adjust my efforts appropriately.
+
+## Class 15
+
+I will be working off the prompt for todays journal. What have i learned from the process of keeping a journal?
+
+Well this is something that I've actually wondered as i've kept this journal. I'll be honest and state upfront that i haven't gone back to read any of my previous entries. But I don't think that means that it has not been a worthwhile or beneficial persuit. I've wanted to begin journaling in my day to day life, I've heard many benefits that come from it. I'm the kind of person who has three empty journals laying around, ready to use, but have yet to use them. Being required to keep this learning journal, i think has been great because i think it has helped me so much.
+
+Writing down the material that i have learned seems to come back to me more readily later on when i need it. i think that has been the biggest benefit that i've experienced so far. It seems to be another way to set the information a little firmer in my mind. Perhaps i can find a better way to journal so that it will be beneficial to also look back and review my entries. I think that is something i will try. I will go back and read my entries and come up with a way that i can improve my future entries.
