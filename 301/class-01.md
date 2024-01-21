@@ -14,12 +14,24 @@ The primary objective of CBA is to ensure component reusability. A component enc
 
 ## What is props and how to use it in React
 
+Props data is read only, it can't be changed by children components.
+
+Props are objects, use dot notation to access different properties
+
 ## Props Questions
 
-1. **What is “props” short for? -**
-2. **How are props used in React? -**
-3. **What is the flow of props? -**
+1. **What is “props” short for? -** Properties
+2. **How are props used in React? -** They pass data from one component to another.
+3. **What is the flow of props? -** They are passed in a single direction from parent to child.
 
 ## Skim and bookmark
 
+- [React Tutorial through ‘Passing Data Through Props’](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Hello world](https://reactjs.org/docs/hello-world.html)
+- [React Docs - Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
+- [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
+
 ## Things I Want To Know More About
+
+I want to dig in and start coding!
