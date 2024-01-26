@@ -48,7 +48,7 @@ Please feel free to follow my progress on github as well as my blog.
 | Topics |
 |-------|
 | [Introduction to React and components](301/class-01.md) |
-| [2]() |
+| [State and Props](301/class-02.md) |
 | [3]() |
 | [4]() |
 | [5]() |
