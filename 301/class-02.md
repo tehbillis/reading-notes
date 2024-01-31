@@ -37,4 +37,3 @@ State an be changed inside components. Props are only passed to the component an
 - [Netlify](https://www.netlify.com/)
 
 ## Things I Want To Know More About
-
