@@ -2,12 +2,14 @@
 
 ## Lists and Keys
 
+React requires you to use a key with your list so that it knows what's going on with the element if you update, remove, or move it.
+
 ## List and Keys Questions
 
-1. **What does .map() return? -**
-2. **If I want to loop through an array and display each value in JSX, how do I do that in React? -**
-3. **Each list item needs a unique ____. -**
-4. **What is the purpose of a key? -**
+1. **What does .map() return? -** Typically a copy/modified array of the original array.
+2. **If I want to loop through an array and display each value in JSX, how do I do that in React? -** You could use the .map() function to return <li> and then display them in a list.
+3. **Each list item needs a unique ____. -** Key.
+4. **What is the purpose of a key? -** So react can keep track of the element.
 
 ## The Spread Operator
 
