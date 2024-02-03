@@ -13,13 +13,51 @@ React requires you to use a key with your list so that it knows what's going on 
 
 ## The Spread Operator
 
+`...` can be used to expand an iterable object or variable into individual items.
+
+Only iterable values like array or string can be spread in array litterals & argument lists. But arrays can be spread in object litterals & enumerates. Spreading in object litterals will turn them into propertires. NOTE that all primitives can be spread into object litterals, but only iterable items will create properties.
+
+When calling a constructor with `new` you can populate the properties with spread.
+
+Can be used to copy a simple array, but isn't suitable to copy a multidimensional array.
+
+Can be a great way to concat arrays. .This can also be done conditionally.
+
 ## Spread Operator Questions
 
-1. **What is the spread operator? -**
-2. **List 4 things that the spread operator can do. -**
-3. **Give an example of using the spread operator to combine two arrays. -**
-4. **Give an example of using the spread operator to add a new item to an array. -**
+1. **What is the spread operator? -** A way to expand iterable items, represented with `...`
+2. **List 4 things that the spread operator can do. -** it can make a copy of a simple array, populate an object literal, concat arrays, and pass arguments into functions.
+3. **Give an example of using the spread operator to combine two arrays. -** 
+
+```javascript
+  let array1 = ['a', 'b', 'c'];
+  let array2 = ['d', 'e', 'f'];
+
+  let array = [...array1, ...array2];
+  
+  // array1 now Returns ['a', 'b', 'c', 'd', 'e', 'f']
+```
+
+4. **Give an example of using the spread operator to add a new item to an array. -** You could do it conditionally:
+
+```javascript
+  const condition = true;
+
+  const array = [1, 2, ...(condition ? [3] : [])];
+
+  // Since the condition is true, array would return [1, 2, 3]
+```
+
 5. **Give an example of using the spread operator to combine two objects into one. -**
+
+```javascript
+  const obj1 = { minutes: 30, seconds: 2 };
+  const obj2 = { month: "Feb", days: 3, hours: 9 };
+
+  const mergedDate = { ...obj2, ...obj1 };
+
+  // mergedDate returns { month: "Feb", days: 3, hours: 9, minutes: 30, seconds: 2 }
+```
 
 ## How to Pass Functions Between Components
 
