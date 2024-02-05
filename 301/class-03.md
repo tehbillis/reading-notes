@@ -63,10 +63,10 @@ Can be a great way to concat arrays. .This can also be done conditionally.
 
 ## Pass Functions Questions
 
-1. **In the video, what is the first step that the developer does to pass functions between components? -**
-2. **In your own words, what does the `handleClick` function do? -**
-3. **How can you pass a method from a parent component into a child component? -**
-4. **How does the child component invoke a method that was passed to it from a parent component? -**
+1. **In the video, what is the first step that the developer does to pass functions between components? -** This seems like a trick question, it's either to create a parent component and child component, or create the function in the parent component.
+2. **In your own words, what does the `handleClick` function do? -** It informs you that the function has been called, since we called it from the child, it really tells us when the button in the child componenet is clicked. And really, this can be called from any child within the parent as long as the function is passed through the props.
+3. **How can you pass a method from a parent component into a child component? -** You can pass it as a prop.
+4. **How does the child component invoke a method that was passed to it from a parent component? -** from the props that have been passed to it, in the `handleClick` instance we saw, it was invoked in the buttons `onClick` event.
 
 ## Bookmark and Review
 
