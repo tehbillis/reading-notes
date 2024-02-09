@@ -1,10 +1,10 @@
 # React and Forms
 
-## How to use forms in react
+## [How to use forms in react](https://www.robinwieruch.de/react-form/)
 
 ## How to use forms in react Questions
 
-## The conditional (Ternary) operator explained
+## [The conditional (Ternary) operator explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
 ## The conditional (Ternary) operator explained Questions
 
