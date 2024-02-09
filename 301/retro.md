@@ -44,6 +44,28 @@ react-bootstrap layouts, man those things really worked my brain.
 
 The assignment is complete.
 
+## 03
+
+**What went well, that I might forget if I don’t write down?** 
+
+Working with the filter function went very well. it's very similar to the map function in a way.
+
+**What did I learn today?** 
+
+How to use the filter function on an array. How to create a modal that is created on demand and is not prepopulated on the page.
+
+**What should I do differently next time?** 
+
+Put headphones in, hood up, and focus on just the task at hand.
+
+**What still puzzles me, or what do I need to learn more about?** 
+
+there was a coding challenge that implimented both filter and map, and oh man, that was a tricky one to solve and i'm not entirely sure that I fully understand my solution. 
+
+**Is the assignment complete? If not, where exactly did you leave off, and what work remains?**
+
+The assignment is complete.
+
 ## number
 
 **What went well, that I might forget if I don’t write down?**
