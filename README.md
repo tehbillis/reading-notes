@@ -51,7 +51,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [State and Props](301/class-02.md) |
 | [Passing Functions As Props](301/class-03.md) |
 | [React and Forms](301/class-04.md) |
-| [5]() |
+| [Putting it all together](301/class-05.md) |
 | [6]() |
 | [7]() |
 | [8]() |
