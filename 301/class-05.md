@@ -4,10 +4,10 @@
 
 ## thinking in react Questions
 
-1. **What is the `single responsibility principle` and how does it apply to components? -**
-2. **What does it mean to build a ‘static’ version of your application? -**
-3. **Once you have a static application, what do you need to add? -**
-4. **What are the three questions you can ask to determine if something is state? -**
+1. **What is the `single responsibility principle` and how does it apply to components? -** It's the idea that something should really only do one thing. and if it grows beyond that, it should be decomposed into smaller subcomponents. This idea can be applied to react components, they should only really do one thing.
+2. **What does it mean to build a ‘static’ version of your application? -** A static version is just the basic representation of your application, it has no functionality.
+3. **Once you have a static application, what do you need to add? -** State and functionality
+4. **What are the three questions you can ask to determine if something is state? -** does it change? is it passed in via props?
 5. **How can you identify where state needs to live? -**
 
 ## Higher-Order functions
