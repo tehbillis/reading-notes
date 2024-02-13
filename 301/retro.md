@@ -66,6 +66,28 @@ there was a coding challenge that implimented both filter and map, and oh man, t
 
 The assignment is complete.
 
+## 04
+
+**What went well, that I might forget if I don’t write down?**
+
+destructuring wasn't as bad as I had initally thought. Implimenting forms was also a success with fairly minimal research!
+
+**What did I learn today?**
+
+Learned how to impliment forms in a github project. Also learned how to utilize the spread and destructuring methods.
+
+**What should I do differently next time?**
+
+Find a way to get into a flow state quicker.
+
+**What still puzzles me, or what do I need to learn more about?**
+
+Nothing at this time
+
+**Is the assignment complete? If not, where exactly did you leave off, and what work remains?**
+
+The assignment is complete.
+
 ## number
 
 **What went well, that I might forget if I don’t write down?**
