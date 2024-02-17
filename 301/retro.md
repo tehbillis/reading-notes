@@ -88,6 +88,29 @@ Nothing at this time
 
 The assignment is complete.
 
+## 05
+
+**What went well, that I might forget if I don’t write down?**
+
+Traversing objects with Object.keys and Object.values went really well. I had one problem that I gave a really not so great solution to, mostly because i'm tired, but I went back and refactored it so that it was done correctly. I think it was the right thing to do for myself and my learning journey.
+
+**What did I learn today?**
+
+How to traverse objects! also how to navigate somebody elses code!
+
+**What should I do differently next time?**
+
+work to stay focused on the task at hand. Distractions seem to pull me away fairly easily.
+
+**What still puzzles me, or what do I need to learn more about?**
+
+Nothing really, I feel like I had an AHA moment with the coding challenges today. The concepts really weren't clicking untill I dove in and started working out solutions to the challenges.
+
+**Is the assignment complete? If not, where exactly did you leave off, and what work remains?**
+
+The assignment is complete.
+
+
 ## number
 
 **What went well, that I might forget if I don’t write down?**
