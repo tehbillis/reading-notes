@@ -52,7 +52,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [Passing Functions As Props](301/class-03.md) |
 | [React and Forms](301/class-04.md) |
 | [Putting it all together](301/class-05.md) |
-| [6]() |
+| [Rest](301/class-06.md) |
 | [7]() |
 | [8]() |
 | [9]() |
