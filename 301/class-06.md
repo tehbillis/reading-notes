@@ -18,3 +18,7 @@
 5. **What does a `POST` do? -** It sends information.
 6. **What does `PUT` do? -** It replaces information.
 7. **What does `PATCH` do? -** It partially updates information.
+
+## API Keys
+
+All API keys have been acquired.
