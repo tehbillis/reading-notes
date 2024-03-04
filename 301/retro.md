@@ -110,6 +110,27 @@ Nothing really, I feel like I had an AHA moment with the coding challenges today
 
 The assignment is complete.
 
+## 06
+
+**What went well, that I might forget if I don’t write down?**
+
+The coding challenge went very well. It took no time for the concept to fall in place for me. Working with API's went very well too.
+
+**What did I learn today?**
+
+How to change the shape of data with the `.reduce` method. As well as how to interact and retreive data with API's.
+
+**What should I do differently next time?**
+
+Work on reducing parts of my application into their own elements.
+
+**What still puzzles me, or what do I need to learn more about?**
+
+Working with images returned via API calls is still somewhat of a puzzle. I will need to think about how that data flows a little bit more so as to better understand it.
+
+**Is the assignment complete? If not, where exactly did you leave off, and what work remains?**
+
+The assignment is complete.
 
 ## number
 
