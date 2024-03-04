@@ -53,7 +53,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [React and Forms](301/class-04.md) |
 | [Putting it all together](301/class-05.md) |
 | [Rest](301/class-06.md) |
-| [7]() |
+| [NODE.JS](301/class-07.md) |
 | [8]() |
 | [9]() |
 | [10]() |
