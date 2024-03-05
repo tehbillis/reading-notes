@@ -2,6 +2,15 @@
 
 ## [An introduction to Node.JS on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js)
 
+Node.js is a javascript runtime  buijlt on chromes V8 JS engine.
+
+Node enhances V* with fileystem API, HTTP Library, OS Utility methods, and other features.
+
+* NPM = Node Package Manager
+* NVM = Node Version Manager
+
+Node and npm were designed to automate the process of developing a modern JS application.
+
 ### Introduction Node.JS Questions
 
 1. **What is node.js? -** It's a Javascript runtime build on chromes V8 Javascript Enginge
@@ -15,16 +24,29 @@
 
 ## [6 Reasons for pair programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
+There is a driver and navigator. they driver is the only one with hands on the keyboard. They handle all the mechanics and actual coding. The navigator uses their words to guide the driver. They think about the big picture and what comes next. As well as looking out for bugs. They can use their computer to lookup solutions but not for writing code.
+
 ### Pair Programming Questions
 
-1. **What are the 6 reasons for pair programming? -**
-2. **In your experience, which of these reasons have you found most beneficial? -**
-3. **How does pair programming work? -**
+1. **What are the 6 reasons for pair programming? -** 
+
+   * Greater Efficiency
+   * Engaged Collaboration
+   * Learning from fellow students
+   * Social Skills
+   * Job Interview Skills
+   * Work environment readiness
+
+2. **In your experience, which of these reasons have you found most beneficial? -** I think the two reasons that I feel like i've gained the most from are Learning from fellow students and Social Skills. I think guiding my classmate through the project, and having them point out new ways to consider things has been such a great benefit to my learning. I also feel like my social skills have benefited greatly from the practice.
+
+3. **How does pair programming work? -** There is a driver and a navigator. 
+   * Driver: Is the only one with hands on the keyboard and handling all the mechanics, including opening, closing, and switching files, and the actual coding.
+   * Navigator: uses their words to guide the driver. They think about the big picture and what comes next. They can use their computer to lookup solutions but they are not to write any code.
 
 ## Bookmark And Review
 
-- [Geocoding API Docs](https://locationiq.com/)
-- [Axios docs](https://www.npmjs.com/package/axios)
-- [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+* [Geocoding API Docs](https://locationiq.com/)
+* [Axios docs](https://www.npmjs.com/package/axios)
+* [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 
 ## Things I Want To Learn More About
