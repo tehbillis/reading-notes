@@ -132,6 +132,28 @@ Working with images returned via API calls is still somewhat of a puzzle. I will
 
 The assignment is complete.
 
+## 07
+
+**What went well, that I might forget if I don’t write down?**
+
+Creating and sending information back and forth between a front end and a back end was a great success!
+
+**What did I learn today?**
+
+How to create an express server and how to work with node.js. I also learned how to manipulate arrays with the sort() function.
+
+**What should I do differently next time?**
+
+Reach out to the TA's when I get stuck, but this can be difficult when I'm working outside of the usual hours.
+
+**What still puzzles me, or what do I need to learn more about?**
+
+Probably learn more about how to properly use state to update my user interface. I really think I lost the flow of my data through my application. Why are my components being run twice!?!?!
+
+**Is the assignment complete? If not, where exactly did you leave off, and what work remains?**
+
+The assignment is complete.
+
 ## number
 
 **What went well, that I might forget if I don’t write down?**
