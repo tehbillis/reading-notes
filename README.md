@@ -54,7 +54,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [Putting it all together](301/class-05.md) |
 | [Rest](301/class-06.md) |
 | [NODE.JS](301/class-07.md) |
-| [8]() |
+| [APIs](301/class-08.md) |
 | [9]() |
 | [10]() |
 | [11]() |
