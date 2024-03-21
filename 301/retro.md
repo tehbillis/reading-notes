@@ -154,6 +154,28 @@ Probably learn more about how to properly use state to update my user interface.
 
 The assignment is complete.
 
+## 08
+
+**What went well, that I might forget if I don’t write down?**
+
+Consuming API's went very well. I used to work with SOAP so working with REST has been really great.
+
+**What did I learn today?**
+
+How to navigate a new API to find the endpoints needed to complete my task.
+
+**What should I do differently next time?**
+
+Connect with a TA if i'm struggling through a tough task.
+
+**What still puzzles me, or what do I need to learn more about?**
+
+I need to traverse API documentation some more so I can find what I need quickly.
+
+**Is the assignment complete? If not, where exactly did you leave off, and what work remains?**
+
+The Assignment is complete.
+
 ## number
 
 **What went well, that I might forget if I don’t write down?**

@@ -55,7 +55,7 @@ Please feel free to follow my progress on github as well as my blog.
 | [Rest](301/class-06.md) |
 | [NODE.JS](301/class-07.md) |
 | [APIs](301/class-08.md) |
-| [9]() |
+| [Functional Programming](301/class-09.md) |
 | [10]() |
 | [11]() |
 | [12]() |
