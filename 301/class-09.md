@@ -2,6 +2,30 @@
 
 ## [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
+Functional Programming is a **programming paradigm** that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
+
+### Pure Functions
+
+- A function is considered pure if it returns the same result if given the same arguments (also referred as deterministic).
+- It does not cause any observable side effects.
+
+### Immutability
+
+- Immutability and Pure Function are big advantages to build side-effect-free functions, making it easier to maintain systems.
+
+### Impure Functions
+
+- An example of an impure function is one that uses a global object that was not passed as a parameter to the function.
+
+### Reading Files and Random Number Generation
+
+- Functions that read external files or rely on a random number generator cannot be pure.
+
+### Observable Side Effects
+
+- Examples include modifying a global object or a parameter passed by reference.
+
+
 ### Functional Programming Concepts Questions
 
 1. **What is functional programming? -**
