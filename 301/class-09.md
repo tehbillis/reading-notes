@@ -14,9 +14,9 @@
 
 ### Modules and require() Questions
 
-1. **What is a module? -**
-2. **What does the word ‘require’ do? -**
-3. **How do we bring another module into the file the we are working in? -**
-4. **What do we have to do to make a module available? -**
+1. **What is a module? -** a standalone javascript file that holds functionality, like a function, outside of the main.js file.
+2. **What does the word ‘require’ do? -** it imports that module into your file.
+3. **How do we bring another module into the file the we are working in? -** we set a variable equal to the required file.
+4. **What do we have to do to make a module available? -** We need to export something from that module.
 
 ## Things I Would Like To Know More About
