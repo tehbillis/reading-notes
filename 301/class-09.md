@@ -28,11 +28,11 @@ Functional Programming is a **programming paradigm** that treats computation as 
 
 ### Functional Programming Concepts Questions
 
-1. **What is functional programming? -**
-2. **What is a pure function and how do we know if something is a pure function? -**
-3. **What are the benefits of a pure function? -**
-4. **What is immutability? -**
-5. **What is Referential transparency? -**
+1. **What is functional programming? -** It's a programming paradigm that treats computation as the evluation of mathematical functions and avoids changing-state and mutable data. It's essentially programming in a way where your code works as expected and doesn't really change anything unless it absolutly has to.
+2. **What is a pure function and how do we know if something is a pure function? -** a pure function doesn't rely on any external data that isn't passed to it and acts as expected every time. You know it's pure if it returns the same results when given the same arguments every time.
+3. **What are the benefits of a pure function? -** It works exactly as expected each time.
+4. **What is immutability? -** Unchanging over time, or, unable to change.
+5. **What is Referential transparency? -** Pure functions + immutable data = referential transparecy.
 
 ## Videos - [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
