@@ -176,6 +176,28 @@ I need to traverse API documentation some more so I can find what I need quickly
 
 The Assignment is complete.
 
+## 09
+
+**What went well, that I might forget if I don’t write down?** 
+
+Refactoring the code on the API and app went very well, I need to remember to take care in which direction the data is flowing when moving code around.
+
+**What did I learn today?** 
+
+I learned about functional programming, immutable data, pure functions, and writing sustainable code. I also leared that it's very difficult to break apart a react bootstrap carousel.
+
+**What should I do differently next time?** 
+
+Not sure what I could have done differently this time around. 
+
+**What still puzzles me, or what do I need to learn more about?** 
+
+That darned carousel, I know I was missing something that made it not want to render or manage the items i was trying to put in it.
+
+**Is the assignment complete? If not, where exactly did you leave off, and what work remains?**
+
+The assignment is complete.
+
 ## number
 
 **What went well, that I might forget if I don’t write down?**
